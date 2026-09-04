@@ -1,0 +1,19 @@
+# Build output
+/converter
+*.exe
+
+# Test and coverage output
+*.test
+*.out
+coverage.*
+
+# Private interview notes (kept outside the repository)
+/softhouse-interview-prep.md
+/go-for-this-solution.md
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*~
+*.swp

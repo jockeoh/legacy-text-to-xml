@@ -1,0 +1,40 @@
+<people>
+    <person>
+        <firstname>Elof</firstname>
+        <lastname>Sundin</lastname>
+        <address>
+            <street>S:t Johannesgatan 16</street>
+            <city>Uppsala</city>
+            <zip>75330</zip>
+        </address>
+        <phone>
+            <mobile>073-101801</mobile>
+            <landline>018-101801</landline>
+        </phone>
+        <family>
+            <name>Hans</name>
+            <born>1967</born>
+            <address>
+                <street>Frodegatan 13B</street>
+                <city>Uppsala</city>
+                <zip>75325</zip>
+            </address>
+        </family>
+        <family>
+            <name>Anna</name>
+            <born>1969</born>
+            <phone>
+                <mobile>073-101802</mobile>
+                <landline>08-101802</landline>
+            </phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Boris</firstname>
+        <lastname>Johnson</lastname>
+        <address>
+            <street>10 Downing Street</street>
+            <city>London</city>
+        </address>
+    </person>
+</people>
